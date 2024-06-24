@@ -31,3 +31,5 @@ Program Flow:
   The program checks the password length and character diversity.
   Based on the checks, the program assigns a score to the password.
   The program displays the password strength score and a corresponding message (e.g., "Weak", "Medium", "Strong", or "Very Strong").
+
+
