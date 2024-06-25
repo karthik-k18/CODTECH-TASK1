@@ -6,10 +6,10 @@ Mentor: SRAVANI GOUNI
 
 OVERVIEW OF THE PROJECT
 
-PROJECT : PASSWORD STRENGTH CHECKER
+PROJECT : VULNERABILITY SCANNING TOOL
 
 Program Description
-        The password checker program is a simple command-line application that checks the strength of a given password. It evaluates the password based on certain criteria, such as length, character diversity, and presence of special characters, and provides a score indicating the password's strength.
+        The VULNERABILITY SCANNING TOOL is a simple command-line application that checks the strength of a given password. It evaluates the password based on certain criteria, such as length, character diversity, and presence of special characters, and provides a score indicating the password's strength.
 
 Program Requirements:
 
